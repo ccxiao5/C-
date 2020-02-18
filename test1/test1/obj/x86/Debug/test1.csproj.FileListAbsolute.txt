@@ -1,0 +1,8 @@
+G:\code\C#\test1\test1\bin\Debug\test1.exe
+G:\code\C#\test1\test1\bin\Debug\test1.pdb
+G:\code\C#\test1\test1\obj\x86\Debug\test1.Form1.resources
+G:\code\C#\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+G:\code\C#\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+G:\code\C#\test1\test1\obj\x86\Debug\test1.exe
+G:\code\C#\test1\test1\obj\x86\Debug\test1.pdb
+G:\code\C#\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
