@@ -1,0 +1,7 @@
+G:\code\C#\test2\test2\bin\Debug\test2.exe
+G:\code\C#\test2\test2\bin\Debug\test2.pdb
+G:\code\C#\test2\test2\obj\x86\Debug\test2.Form1.resources
+G:\code\C#\test2\test2\obj\x86\Debug\test2.Properties.Resources.resources
+G:\code\C#\test2\test2\obj\x86\Debug\test2.csproj.GenerateResource.Cache
+G:\code\C#\test2\test2\obj\x86\Debug\test2.exe
+G:\code\C#\test2\test2\obj\x86\Debug\test2.pdb
