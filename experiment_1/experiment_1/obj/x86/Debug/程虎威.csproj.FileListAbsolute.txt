@@ -1,0 +1,9 @@
+G:\code\C#\experiment_1\experiment_1\obj\x86\Debug\experiment_1.exe
+G:\code\C#\experiment_1\experiment_1\obj\x86\Debug\experiment_1.pdb
+G:\code\C#\experiment_1\experiment_1\bin\Debug\experiment_1.exe
+G:\code\C#\experiment_1\experiment_1\bin\Debug\experiment_1.pdb
+G:\code\C#\experiment_1\experiment_1\obj\x86\Debug\程虎威.csprojResolveAssemblyReference.cache
+G:\code\C#\experiment_1\experiment_1\obj\x86\Debug\experiment_1.Form1.resources
+G:\code\C#\experiment_1\experiment_1\obj\x86\Debug\experiment_1.Form2.resources
+G:\code\C#\experiment_1\experiment_1\obj\x86\Debug\experiment_1.Properties.Resources.resources
+G:\code\C#\experiment_1\experiment_1\obj\x86\Debug\程虎威.csproj.GenerateResource.Cache
